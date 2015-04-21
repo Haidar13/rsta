@@ -1,0 +1,10 @@
+null	sergey	Sergey Smirnov	1234	20	I like to party!	3	null	null
+null	david	David Stancu	4321	20	I like cars.	4	null	null
+null	roni	Roni Rahman	0000	19	I like food.	7	rahmanroni	null
+null	wellschan	Wells Lucas Santo	4325	20	Data structures is love, data structures is life.	null	theonlydevking	null
+null	zuck	Mark Zuckerberg	9430	35	I created Facebook.	9	zuck	zuck
+null	richard	Richard Hendricks	7235	28	I created Pied Piper, which Hooli stole from me.	8	null	null
+null	erlich	Erlich Bachmann	0001	36	I am the next Steve Jobs.	null	null	null
+null	jared	Jared Dunn	0002	34	Boo Hooli! Go Pied Piper!	null	null	null
+null	dinesh	Dinesh Chugtai	0003	28	I -am- the CTO of Pied Piper. Gilfoyle's just full of crap.	null	null	null
+null	gilfoyle	Bertram Gilfoyle	6666	28	McGill. MIT. EFF. 666Chan. Dinesh is definitely not the CTO of Pied Piper.	10	null	null

@@ -1,0 +1,14 @@
+null	24 Willie Mays Plaza	San Francisco	CA	94107
+null	66 Mint Plaza	San Francisco	CA	94107
+null	101 Johnson Street	Brooklyn	NY	11201
+null	1 Hacker Way	Menlo Park	CA	94025
+null	347 N. Rodeo Drive	Beverly Hills	CA	90210
+null	251 Mercer Street	New York	NY	10012
+null	875 University Ave	Palo Alto	CA	94301
+null	30 Rockefeller Plaza	New York	NY	10112
+null	350 5th Avenue	New York	NY	10118
+null	600 Montgomery Street	San Francisco	CA	94111
+null	1355 Market Street	San Francisco	CA	94103
+null	1600 Amphitheatre Parkway	Mountain View	CA	94043
+null	1 Infinite Loop	Cupertino	CA	95014
+null	19111 Pruneridge Avenue	Cupertino	CA	95014

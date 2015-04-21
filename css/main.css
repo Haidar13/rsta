@@ -1,0 +1,36 @@
+.logo
+{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+img.logo
+{
+	display: block;
+	width: 350px;
+	text-align: center;
+	padding: 15px;
+}
+
+img.user
+{
+	display: block;
+	width: 200px;
+	height: 200px;
+	padding: 15px;
+	float: left;
+}
+
+.event
+{
+	margin-right: auto;
+	margin-left: auto;
+}
+
+img.event
+{
+	display: block;
+	width: 960px;
+	padding: 35px;
+	text-align: center;
+}
